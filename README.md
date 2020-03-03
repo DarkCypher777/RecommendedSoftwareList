@@ -8,20 +8,20 @@
 ## Gaming
 * [Battle.Net](http://battle.net/) - Blizzards Official Game Launcher.
 * [Borderless Gaming](https://github.com/Codeusa/Borderless-Gaming) - Play your favorite games in a borderless window.
-* [GOG](https://www.gog.com/) - A Game launcher Made by CD Project with the benefit of buying DRM-free games
+* [GOG](https://www.gog.com/) - A Game launcher Made by CD Project with the benefit of buying DRM-free games.
 * [Steam](https://store.steampowered.com/) - A digital distribution platform developed by Valve Software and my personal favorite.
 * [Origin](https://www.origin.com/) - EA's Game Launcher
 
 ## Maintenance
-* [7Zip](https://www.7-zip.org/) - file archiver with a high compression ratio.
-* [BleachBit](https://www.bleachbit.org/) - disk space cleaner, privacy manager, and computer system optimizer.
-* [CCleaner](https://www.ccleaner.com/) - used to clean potentially unwanted files and invalid Windows Registry entries from a computer.
+* [7Zip](https://www.7-zip.org/) - File archiver with a high compression ratio.
+* [BleachBit](https://www.bleachbit.org/) - Disk space cleaner, privacy manager, and computer system optimizer.
+* [CCleaner](https://www.ccleaner.com/) - Used to clean potentially unwanted files and invalid Windows Registry entries from a computer.
 * [Defraggler](https://www.ccleaner.com/defraggler) - Defrag entire hard drives or individual files.
 
 ## Multimedia
 * [ShareX](https://getsharex.com/) - An open source program that lets you capture or record any area of your screen and share it with a single press of a key.
 * [Spotify](https://www.spotify.com/) - A digital music service that gives you access to millions of songs.
-* [VLC](https://www.videolan.org/vlc/index.html) - An open source cross-platform multimedia player and framework that plays most multimedia files
+* [VLC](https://www.videolan.org/vlc/index.html) - An open source cross-platform multimedia player and framework that plays most multimedia files.
 
 ## Programming
 * [Git](https://git-scm.com) - Git is a free and open source distributed version control system.
